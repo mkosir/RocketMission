@@ -1,8 +1,11 @@
 /***********************************************************************************
-This program was made completely and entirely by Marko Kosir, it is freeware,
+This program was made entirely by Marko Kosir, it is freeware,
 feel free to use this code or change it in any way you like.
- 
-mail: kosir.mar@gmail.com
+This program is distributed in the hope that it will be useful, 
+but WITHOUT ANY WARRANTY; without even the implied warranty 
+of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+email: kosir.mar@gmail.com
 
 Tested - Windows XP
 Compiled - Microsoft Visual Studio 2005
