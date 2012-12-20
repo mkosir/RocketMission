@@ -9,6 +9,6 @@ Tested - Windows XP
 Compiled - Microsoft Visual Studio 2005
 
 Upgrade log:  
-ported to MVS 2010  (23.5.2010)
+-ported to MVS 2010  (23.5.2010)
 
 ![screenshot](https://github.com/markokosir/RocketMission/blob/master/readmeScreenshot.JPG)
